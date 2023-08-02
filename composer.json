@@ -1,0 +1,9 @@
+{
+    "name": "cikipaw/test",
+    "autoload": {
+        "psr-4": {
+            "Cikipaw\\Test\\": "src/"
+        }
+    },
+    "require": {}
+}
